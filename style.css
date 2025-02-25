@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+}
+
+
+
+
+
+.box {
+    font-family: "Libre Baskerville", serif;
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.Zomato-boy {
+    width: 100%;
+    height: 420px;
+    border: 5px solid white;
+    margin-bottom: 40px;
+}
+
+
+h1 {
+    color: white;
+    text-transform: uppercase;
+    font-size: 2rem;
+}
+
+p {
+    color: white;
+}
+
